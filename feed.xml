@@ -6,21 +6,40 @@
     <atom:link href="http://gsie.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 23 Jun 2014 20:37:41 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Jun 2014 20:37:41 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2014 09:17:59 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2014 09:17:59 +0000</lastBuildDate>
 
     
     
     <item>
       <title>Sanctions and Exports Deflection</title>
-      <link>http://gsie.github.io/2014/06/23/Sanctions-and-Exports-Deflection/</link>
-      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      <link>http://gsie.github.io/2014/06/30/Sanctions-and-Exports-Deflection/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://gsie.github.io/2014/06/23/Sanctions-and-Exports-Deflection</guid>
-      <description>&lt;p&gt;Using Iranian non-oil exports flows data that are dis-aggregated at the exporter-product-destination-day level, I uncover that (and how) Iranian exports deflection to countries not imposing sanctions happened after the imposition of non-oil export sanctions on Iran. I examine both the mechanism and extent of exports deflection associated with the exports of Iranian exporters across destinations. On the intensive margin, Iranian exporters enhanced their export volumes to other destinations that they were already exporting to when certain destinations imposed export sanctions on Iran. On the extensive margin, the probability of an exporter to deflect exports to a another destination rised if the exporter was already existing in that market, suggesting that fixed costs of exporting matter for exports deflection. I document how larger and more experienced exporters were less affected by sanctions and more able to deflect their exports than smaller and less experienced peers; exporters deflected firstly their core and homogeneous products; exporters reduced their product prices as they deflected exports to new destinations; and the new destinations, which deflecting exporters targeted, are more politically-friendly with Iran. My model estimates indicate that two thirds of the value of Iranian non-oil exports thought to be destroyed by non-oil exports sanctions have actually been deﬂected to the destinations not imposing sanctions.&lt;/p&gt;</description>
+      <guid>http://gsie.github.io/2014/06/30/Sanctions-and-Exports-Deflection</guid>
+      <description>&lt;p&gt;Exports sanctions continue to be a tool used by countries to influence policies of other governments, and export sanctions against Iran are no exception. Over the last century, sanctions were imposed 174 times by different countries. By definition, sanctions increase export costs. However, despite the importance of export costs in shaping export patterns, we still lack understanding about how exporters behave when faced with export sanctions by some destinations. Due to an increasingly globalized economy, many alternative markets exist for an exporting country hit by sanctions. Recent research&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; explores whether and how exports deflection happened following the imposition of exports sanctions against Iran in 2008.&lt;/p&gt;
+
+&lt;p&gt;This research uses disaggregated dataset which includes all Iranian non-oil customs records at the exporter-product-destination-value-day level for the period January 2006 to June 2011. The sample includes 1,814,146 daily transactions, 35,953 exporters, and 3,865 products classified at the HS-6 digit level. The data allows observing microeconomic adjustments. The empirical investigation for non-oil Iranian exports uncovers that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;While entry (exit) rates of exporters and products decreased (increased) in destinations imposing sanctions, they increased (decreased) in destinations not imposing sanctions.&lt;/li&gt;
+
+&lt;li&gt;Iranian exporters enhanced their export volumes to other destinations that they were already exporting to when certain destinations imposed sanctions on Iran. -Larger and more experienced exporters were able to deflect relatively more of their exports than smaller and less experienced ones.&lt;/li&gt;
+
+&lt;li&gt;Exporters typically deflected first (and more of) their core-competence products as well as their homogeneous products compared to differentiated products.&lt;/li&gt;
+
+&lt;li&gt;Exporters reduced their product prices while deflecting exports to new destinations.&lt;/li&gt;
+
+&lt;li&gt;The new destinations, which deflecting exporters targeted, are more politically-friendly with Iran.&lt;/li&gt;
+
+&lt;li&gt;Two-thirds of the value of Iranian non-oil exports thought to be destroyed by non-oil exports sanctions have actually been deﬂected to destinations not imposing sanctions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While these findings add to the academic literature on exports costs and exports dynamics, they also contribute to the policy debate on sanctions. Sanctions may be less effective in a globalized world as exports can deflect their trade from one destination to another. The idea that one country can impose export sanctions on another may not necessarily prove effective unless the exporters from the targeted country do not have - or cannot find - compensating alternatives and new trading partners.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;&lt;hr /&gt;&lt;ol&gt;&lt;li id=&quot;fn:1&quot;&gt;
+&lt;p&gt;Haidar, J.I. (2014): Sanctions and Exports Deflection. Mimeograph, Paris School of Economics. &lt;a href=&quot;#fnref:1&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description>
     </item>
-    
-    
     
     
 
