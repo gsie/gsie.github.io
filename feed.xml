@@ -6,17 +6,167 @@
     <atom:link href="http://www.gsie-seminar.org/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Thu, 13 Nov 2014 18:32:36 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 18:32:36 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2014 17:37:57 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2014 17:37:57 +0000</lastBuildDate>
 
     
     
     <item>
+      <title>Immigration and Wages Inequality in France</title>
+      <link>http://www.gsie-seminar.org/2014/12/04/Immigration%20and%20Wages%20Inequality%20in%20France/</link>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://www.gsie-seminar.org/2014/12/04/Immigration and Wages Inequality in France</guid>
+      <description>&lt;p&gt;Over 232 million people now reside in a country where they were not born. Immigrants thus account for 3.2% of the world’s population. In the past two decades, the fraction of the population in developed countries that is foreign-born increased from 7% in 1990 to 10% in 2010. The rise in the demographic importance of international migration led to a parallel increase in the amount of time and effort that economists devote to studying the consequences of immigration. One of the main questions raised by economists is related to the labor impact of migration in receiving economies.&lt;/p&gt;
+
+&lt;p&gt;What impact do immigrants have on the wages of native workers? Economic theory has straightforward and intuitive implications about what we should expect: immigration should reduce the wage of competing workers (who have skills similar to those of the migrants), and increase the wage of complementary workers (who have skills that complement those of immigrants). If immigrants are assumed to be less skilled than the average native worker,immigration should increase the average earnings of skilled native workers and decrease the average earnings of low-skilled native workers. If the skill distribution of immigrants is similar to that of natives, immigration should not affect the relative supply of skills and thus should not change the structure of wages.&lt;/p&gt;
+
+&lt;p&gt;As a result, immigration should produce losers and winners depending on the skill composition of migrants – &lt;em&gt;i.e.&lt;/em&gt; immigration redistributes wealth in the economy. In order to investigate how the skill composition of immigrants affects the wage distribution of native workers, we study the case of France. &lt;/p&gt;
+
+&lt;p&gt;France is an interesting case because immigration has disproportionately increased the number of high educated workers in that country. As illustrated in Figure 1 the immigrant contribution to the supply of skills has become increasingly concentrated in the higher educational categories in France.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;While 10% of the immigrant labor force was highly educated (with a college education) in 1990, this share increased to 28% in 2010. By contrast, the share of low educated immigrants (below high school) in the immigrant labor force declined substantially from 67% in 1990 to 38% in 2010. Within this specific context, we examine how immigration has affected the native wage distribution.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1: The Educational Distribution of Immigrants over Time&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/2014-11-28-Immigration and Wages Inequality in France-img1.png&quot; alt=&quot;The Educational Distribution of Immigrants over Time&quot; /&gt;
+&lt;strong&gt;Note:&lt;/strong&gt; The Figure reports the shares of high, medium and low educated immigrants in the immigrant labor force between 1990 and 2010. The population used to compute these shares includes all immigrants participating in the labor force aged from 16 to 64, not enrolled at school and having between 1 and 40 years of labor market experience. Self-employed people are excluded from the sample.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We quantify the impact of immigration on the French wage structure by using a structural method called the ``structural skill-cell approach’’.&lt;sup id=&quot;fnref:Borjas2003&quot;&gt;&lt;a href=&quot;#fn:Borjas2003&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Ottaviano2012&quot;&gt;&lt;a href=&quot;#fn:Ottaviano2012&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Structural methods impose a structure on the technology of the local labor market – &lt;em&gt;i.e.&lt;/em&gt;, they assume a specific functional form for the aggregate production function. Such assumption allows for the estimation of the complete set of factor price elasticities that determine how immigration affects the entire wage structure. Because wages in France should adjust perfectly to immigrant-induced labor supply shifts,&lt;sup id=&quot;fnref:Edo2013&quot;&gt;&lt;a href=&quot;#fn:Edo2013&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; we allow the structural model to account for wage rigidities.&lt;/p&gt;
+
+&lt;p&gt;Table 1 shows our simulation results.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; Our simulations indicate that immigration has, on average, no impact on the wage of natives. The table also reports the distributional effects of immigration by education. We show that the skill mix of immigrants matters in determining their impact on the wages of native workers. Since immigrants to France has been disproportionately high educated in the past two decades, the simulations indicate a drop of 1.1% in the relative wage of highly educated native workers, a 0.2% gain in the relative wage of workers in the middle of the education distribution, and an increase in the wage of low educated natives by 0.5%.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Because the supply shocks of immigrant labor to France has been greater for high educated workers, immigration has served to reduce wage inequality between low educated and high educated workers. This result is consistent with the labor market trend to lower wage inequality experiencing by France since 1970.&lt;sup id=&quot;fnref:Verdugo2014&quot;&gt;&lt;a href=&quot;#fn:Verdugo2014&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Table 1: Simulated Wage Impact of 1990-2010 Immigrant Influx on the Wages of Natives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;All Natives&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;High Education&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Medium Education&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Low Education&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;French Wages&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0.0 %&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-1.1 %&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0.3 %&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0.5 %&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Flexible Wages&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0.0 %&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-2.4 %&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;0.6 %&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1.2 %&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our results suggest that immigration has been a crucial factor in accounting for the drop in the relative wage of high educated workers in France – immigration has contributed to the reduction of wages inequality in France. By using our structural model, we quantify the contribution of immigration to the reduction of wage inequality. We find that immigration accounts for about 18% of the reduction of wage inequality between high and low educated workers in France since 1990.&lt;/p&gt;
+
+&lt;p&gt;The last row of Table 1 underlines the role played by wage rigidities in reducing the impact of immigration on wage inequalities. If wages in France were perfectly flexible, the positive and negative effects induced by immigration on wages would have been larger: the negative impact of immigration on the relative wage of high educated natives would have been more detrimental.&lt;/p&gt;
+
+&lt;p&gt;In order to offer some guidance with respect to immigration policy, we simulate the impact of different policies with respect to migration. Our simulations show, in particular, that selective migration policies in favor of highly educated immigrants reduce wage inequality by far less than when they promote low educated immigration. We also find that these effects are larger under a scenario when I assume wages to be perfectly flexible.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;In France, the share of immigrants in the labor force climbed from 7% in 1990 to 10% in 2010. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Borjas2003&quot;&gt;
+      &lt;p&gt;Borjas, G. J., “The labor demand curve is downward sloping: reexamining the impact of immigration on the labor market,” The quarterly journal of economics 118 (2003), 1335–1374. &lt;a href=&quot;#fnref:Borjas2003&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Ottaviano2012&quot;&gt;
+      &lt;p&gt;Ottaviano, G. I. and G. Peri, “Rethinking the effects of immigration on wages,” Journal of the European Economic Association 10 (2012), 152–197. &lt;a href=&quot;#fnref:Ottaviano2012&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Edo2013&quot;&gt;
+      &lt;p&gt;Edo, A., “The Impact of Immigration on Native Wages and Employment,” CES working paper No. 13-64 (2013). &lt;a href=&quot;#fnref:Edo2013&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;We provide the long-run simulation results. They assume that capital has fully adjusted to immigration. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;The simulated results have a &lt;em&gt;ceteris paribus&lt;/em&gt; interpretation. The simulations yield the change in wages due to immigration only, without accounting for the other factors that may affect native wages. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Verdugo2014&quot;&gt;
+      &lt;p&gt;Verdugo, G., “The great compression of the French wage structure, 1969–2008,” Labour Economics 28 (2014), 131–144. &lt;a href=&quot;#fnref:Verdugo2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Does Country Size Matter for Trade Facilitation Assistance?</title>
+      <link>http://www.gsie-seminar.org/2014/11/25/Does%20Country%20Size%20Matter%20for%20Trade%20Facilitation%20Assistance/</link>
+      <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://www.gsie-seminar.org/2014/11/25/Does Country Size Matter for Trade Facilitation Assistance</guid>
+      <description>&lt;p&gt;Greater attention is now being devoted to trade facilitation measures. The 159 members of the WTO agreed during their December 2013 meeting in Bali on a Trade Facilitation Agreement. And, the European Commission, the World Bank, and other donors have just &lt;a href=&quot;http://trade.ec.europa.eu/doclib/press/index.cfm?id=1202&quot;&gt;launched&lt;/a&gt; the implementation of the &lt;a href=&quot;https://www.wbginvestmentclimate.org/advisory-services/regulatory-simplification/trade-logistics/trade-facilitation-support-program/&quot;&gt;Trade Facilitation Support Program (TFSP)&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;The TFSP is to help developing countries reform and modernize their border procedures. Such initiative is important as time delays at customs affect trade. Each additional day that a product is delayed prior to being shipped reduces trade by more than 1%. Put differently, each day is equivalent to a country distancing itself from its trade partners by about 70 km on average&lt;sup id=&quot;fnref:Djankov2010&quot;&gt;&lt;a href=&quot;#fn:Djankov2010&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;That being said, there is currently a lot of variation in trade facilitation across countries. For example, while 2 documents are currently required to export a container from France, it requires 10 documents to do the same in Kazakhstan. Does country size affect trade facilitation? Is some of this cross-country variation in trade facilitation due to differences in country size? Our recent research paper, “Trade Facilitation and Country Size,”&lt;sup id=&quot;fnref:Amin2013&quot;&gt;&lt;a href=&quot;#fn:Amin2013&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; attempts to answer this question.&lt;/p&gt;
+
+&lt;p&gt;We extend the literature beyond the conventional trade openness measures in an important way. In contrast to existing studies, we focus on micro-level trade facilitation or “inside the border” measures to define how liberal the trading regime is. We perform a precise analysis of the relationship between country size and the number of documents required to export and import, a measure of trade facilitation. &lt;/p&gt;
+
+&lt;p&gt;Three results follow. First, trade facilitation does improve as country size becomes smaller; that is, small countries perform better than large countries in terms of trade facilitation. Second, the relationship between country size and trade facilitation is non-linear. It is much stronger for the relatively small than the large countries. Third, contrary to what existing studies might suggest, the relationship between country size and trade facilitation does not appear to be driven by the fact that small countries trade more as a proportion of their gross domestic product than large countries.&lt;/p&gt;
+
+&lt;p&gt;There is a large body of work&lt;sup id=&quot;fnref:Alesina2005&quot;&gt;&lt;a href=&quot;#fn:Alesina2005&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; that shows that small countries are likely to benefit more from international trade or a liberal trading regime than large countries. Smallness of market limits the exploitation of economies of scale, forcing the relatively small countries to expand market size through international trade beyond their political borders. However, most of the evidence on the relationship between trade openness and country size is largely focused on measures of trade openness that include trade volume and border taxes. &lt;/p&gt;
+
+&lt;p&gt;Our paper extends these findings by showing that small countries perform better than large countries in terms of trade facilitation, too. That is, the number of documents required for export and import clearance, a measure of trade facilitation, tends to increase sharply with country size, proxied by total population. Will the TFSP start in smaller or larger countries? Time will tell.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Djankov2010&quot;&gt;
+      &lt;p&gt;Simeon Djankov &amp;amp; Caroline Freund &amp;amp; Cong S. Pham, 2010. “Trading on Time,” The Review of Economics and Statistics, MIT Press, vol. 92(1), pages 166-173, February. &lt;a href=&quot;#fnref:Djankov2010&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Amin2013&quot;&gt;
+      &lt;p&gt;Amin, Mohammad &amp;amp; Haidar, J.I., 2013. “Trade facilitation and country size, “ Empirical Economics, Springer, vol. 47(4), pages 1441-1466. &lt;a href=&quot;#fnref:Amin2013&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Alesina2005&quot;&gt;
+      &lt;p&gt;Alesina, Alberto &amp;amp; Spolaore, Enrico &amp;amp; Wacziarg, Romain, 2005. “Trade, Growth and the Size of Countries,” Handbook of Economic Growth, in: Philippe Aghion &amp;amp; Steven Durlauf (ed.), Handbook of Economic Growth, edition 1, volume 1, chapter 23, pages 1499-1542 Elsevier. &lt;a href=&quot;#fnref:Alesina2005&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
       <title>Linguistic Proximity and Export Dynamics</title>
-      <link>http://www.gsie-seminar.org/2014/09/15/Linguistic-Proximity-and-Export-Dynamics/</link>
+      <link>http://www.gsie-seminar.org/2014/09/15/Linguistic%20Proximity%20and%20Export%20Dynamics/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://www.gsie-seminar.org/2014/09/15/Linguistic-Proximity-and-Export-Dynamics</guid>
+      <guid>http://www.gsie-seminar.org/2014/09/15/Linguistic Proximity and Export Dynamics</guid>
       <description>&lt;p&gt;Firms do not choose randomly their export market. Instead, empirical evidence suggests the existence of a geographic bias in the choice of export destination by firms. Firms tend to enter markets that are close to their existing export destinations. Chaney (2014)&lt;sup id=&quot;fnref:Chaney2014&quot;&gt;&lt;a href=&quot;#fn:Chaney2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; refers to this as the indirect search for new contacts, and this systematic geographic bias has been now documented by several authors (Albornoz et al. 2011&lt;sup id=&quot;fnref:Albornoz2011&quot;&gt;&lt;a href=&quot;#fn:Albornoz2011&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, Defever et al. 2011&lt;sup id=&quot;fnref:Defever2011&quot;&gt;&lt;a href=&quot;#fn:Defever2011&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, Lawless 2013&lt;sup id=&quot;fnref:Lawless2013&quot;&gt;&lt;a href=&quot;#fn:Lawless2013&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;). While the role of geography is well understood (economies of scale in the shipments, presence of a distribution network), little has been said about the linguistic (or the cultural) proximity across the firm’s various export markets. &lt;/p&gt;
 
 &lt;p&gt;In this paper, I argue that linguistic proximity (a proxy for the cultural proximity of the different export markets) 
@@ -45,10 +195,10 @@ can explain the dynamics of entry into new markets. Cultural proximity should ma
     
     <item>
       <title>Sanctions and Exports Deflection</title>
-      <link>http://www.gsie-seminar.org/2014/06/30/Sanctions-and-Exports-Deflection/</link>
+      <link>http://www.gsie-seminar.org/2014/06/30/Sanctions%20and%20Exports%20Deflection/</link>
       <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://www.gsie-seminar.org/2014/06/30/Sanctions-and-Exports-Deflection</guid>
+      <guid>http://www.gsie-seminar.org/2014/06/30/Sanctions and Exports Deflection</guid>
       <description>&lt;p&gt;Exports sanctions continue to be a tool used by countries to influence policies of other governments, and export sanctions against Iran are no exception. Over the last century, sanctions were imposed 174 times by different countries. By definition, sanctions increase export costs. However, despite the importance of export costs in shaping export patterns, we still lack understanding about how exporters behave when faced with export sanctions by some destinations. Due to an increasingly globalized economy, many alternative markets exist for an exporting country hit by sanctions. Recent research&lt;sup id=&quot;fnref:Haidar2014&quot;&gt;&lt;a href=&quot;#fn:Haidar2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; explores whether and how exports deflection happened following the imposition of exports sanctions against Iran in 2008. &lt;/p&gt;
 
 &lt;p&gt;This research uses disaggregated dataset which includes all Iranian non-oil customs records at the exporter-product-destination-value-day level for the period January 2006 to June 2011. The sample includes 1,814,146 daily transactions, 35,953 exporters, and 3,865 products classified at the HS-6 digit level. The data allows observing microeconomic adjustments. The empirical investigation for non-oil Iranian exports uncovers that:&lt;/p&gt;
@@ -74,8 +224,6 @@ can explain the dynamics of entry into new markets. Cultural proximity should ma
 &lt;/div&gt;
 </description>
     </item>
-    
-    
     
     
 
