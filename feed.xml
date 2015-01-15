@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>GSIE Blog</title>
     <link>http://www.gsie-seminar.org</link>
     <atom:link href="http://www.gsie-seminar.org/feed.xml" rel="self" type="application/rss+xml" />
-    <description></description>
+    <description>Graduate Students in International Economics blogging about their research</description>
     <language>en-us</language>
-    <pubDate>Thu, 15 Jan 2015 13:47:09 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2015 13:47:09 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2015 13:52:20 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2015 13:52:20 +0000</lastBuildDate>
 
     
     
