@@ -6,8 +6,8 @@
     <atom:link href="http://www.gsie-seminar.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Graduate Students in International Economics blogging about their research</description>
     <language>en-us</language>
-    <pubDate>Mon, 26 Jan 2015 20:40:21 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2015 20:40:21 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Mar 2015 17:42:44 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2015 17:42:44 +0000</lastBuildDate>
 
     
     
@@ -90,11 +90,11 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;We quantify the impact of immigration on the French wage structure by using a structural method called the ``structural skill-cell approach’’.&lt;sup id=&quot;fnref:Borjas2003&quot;&gt;&lt;a href=&quot;#fn:Borjas2003&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Ottaviano2012&quot;&gt;&lt;a href=&quot;#fn:Ottaviano2012&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Structural methods impose a structure on the technology of the local labor market – &lt;em&gt;i.e.&lt;/em&gt;, they assume a specific functional form for the aggregate production function. Such assumption allows for the estimation of the complete set of factor price elasticities that determine how immigration affects the entire wage structure. Because wages in France should adjust perfectly to immigrant-induced labor supply shifts,&lt;sup id=&quot;fnref:Edo2013&quot;&gt;&lt;a href=&quot;#fn:Edo2013&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; we allow the structural model to account for wage rigidities.&lt;/p&gt;
+&lt;p&gt;We quantify the impact of immigration on the French wage structure by using a structural method called the ``structural skill-cell approach’’.&lt;sup id=&quot;fnref:Borjas2003&quot;&gt;&lt;a href=&quot;#fn:Borjas2003&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Ottaviano2012&quot;&gt;&lt;a href=&quot;#fn:Ottaviano2012&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Structural methods impose a structure on the technology of the local labor market – &lt;em&gt;i.e.&lt;/em&gt;, they assume a specific functional form for the aggregate production function. Such assumption allows for the estimation of the complete set of factor price elasticities that determine how immigration affects the entire wage structure. Because wages in France should not adjust perfectly to immigrant-induced labor supply shifts,&lt;sup id=&quot;fnref:Edo2013&quot;&gt;&lt;a href=&quot;#fn:Edo2013&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; we allow the structural model to account for wage rigidities.&lt;/p&gt;
 
 &lt;p&gt;Table 1 shows our simulation results.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; Our simulations indicate that immigration has, on average, no impact on the wage of natives. The table also reports the distributional effects of immigration by education. We show that the skill mix of immigrants matters in determining their impact on the wages of native workers. Since immigrants to France has been disproportionately high educated in the past two decades, the simulations indicate a drop of 1.1% in the relative wage of highly educated native workers, a 0.2% gain in the relative wage of workers in the middle of the education distribution, and an increase in the wage of low educated natives by 0.5%.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Because the supply shocks of immigrant labor to France has been greater for high educated workers, immigration has served to reduce wage inequality between low educated and high educated workers. This result is consistent with the labor market trend to lower wage inequality experiencing by France since 1970.&lt;sup id=&quot;fnref:Verdugo2014&quot;&gt;&lt;a href=&quot;#fn:Verdugo2014&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Because the supply shock of immigrant labor to France has been greater for high educated workers, immigration has served to reduce wage inequality between low educated and high educated workers. This result is consistent with the labor market trend to lower wage inequality experiencing by France since 1970.&lt;sup id=&quot;fnref:Verdugo2014&quot;&gt;&lt;a href=&quot;#fn:Verdugo2014&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;strong&gt;Table 1: Simulated Wage Impact of 1990-2010 Immigrant Influx on the Wages of Natives&lt;/strong&gt;&lt;/p&gt;
